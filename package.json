@@ -1,0 +1,25 @@
+{
+  "name": "mircea-learn-testing-with-chai",
+  "version": "1.0.0",
+  "description": "Have a nice day!",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "nyc": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirceah99/mircea-learn-testing-with-chai.git"
+  },
+  "keywords": [],
+  "author": "Mircea Hanghiuc <mirceah99@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirceah99/mircea-learn-testing-with-chai/issues"
+  },
+  "homepage": "https://github.com/mirceah99/mircea-learn-testing-with-chai#readme"
+}
